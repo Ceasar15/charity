@@ -575,5 +575,8 @@
   "bugs": {
     "url": "https://github.com/Ceasar15/charity/issues"
   },
-  "homepage": "https://github.com/Ceasar15/charity#readme"
+  "homepage": "https://github.com/Ceasar15/charity#readme",
+  "optionalDependencies": {
+    "fsevents": "^1.2.9"
+  }
 }
