@@ -18,7 +18,8 @@
   "version": "1.0.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "gulpfile.js"
+    "start": "node gulpfile.js",
+    "start-server": "http-server -c-1 -p 8081"
   },
   "author": "",
   "license": "ISC",
@@ -564,5 +565,13 @@
     "iconv-lite": "^0.4.24",
     "http-proxy": "^1.18.1",
     "http-signature": "^1.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ceasar15/charity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ceasar15/charity/issues"
+  },
+  "homepage": "https://github.com/Ceasar15/charity#readme"
 }
