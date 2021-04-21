@@ -21,8 +21,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start-server": "node gulpfile.js",
-    "postinstall" : "gulp build"
+    "start-server": "node gulpfile.js"
   },
   "author": "",
   "license": "ISC",
