@@ -313,7 +313,7 @@ a:hover, a:focus, a:active {
     position: relative;
     width: 220px;
     height: 43px;
-    background: url(../img/fund.png) no-repeat left 100%;
+    background: url(../img/.png) no-repeat left 100%;
     background-size: cover;
   }
 }
