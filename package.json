@@ -253,6 +253,7 @@
     "hosted-git-info": "^2.8.9",
     "http-errors": "^1.7.3",
     "http-proxy": "^1.18.1",
+    "http-server": "^0.12.3",
     "http-signature": "^1.2.0",
     "iconv-lite": "^0.4.24",
     "immutable": "^3.8.2",
