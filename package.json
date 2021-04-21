@@ -21,8 +21,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node gulpfile.js",
-    "start-server": "http-server -c-1 -p 8081"
+    "start-server": "node gulpfile.js",
+    "start": "http-server -c-1 -p 8081"
   },
   "author": "",
   "license": "ISC",
