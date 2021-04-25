@@ -1,0 +1,4 @@
+
+# to change language of repo
+    *.html linguist-language=Javascript
+    *.js linguist-language=HTML
