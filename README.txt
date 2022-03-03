@@ -1,52 +1,34 @@
-THEME: Charity - Free Bootstrap Theme
-AUTHOR: uiCookies.com
-AUTHOR URI: https://uiCookies.com/
+# Financial Studio App
+This is a website for fintech startup in accra. It was built with HTML, CSS, PostgreSQL, NodeJS/Express and Bootstrap4
+
+## Installation
+
+Clone the repository, install all requirements and start server.
+```bash
+git clone https://github.com/Ceasar15/charity.git
+npm install 
+npm run start-server
+```
 
 
-CREDITS:
+## Preview
+You can access the live application here.
+[Live Preview](http://fintechstudio.herokuapp.com/index.html)
 
-Bootstrap
-http://getbootstrap.com/
+## Visuals
 
-jQuery
-http://jquery.com/
+```image 1
+![Screenshot](screenshot.png)
+![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+```
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-HTML5Shiv
-https://github.com/aFarkas/html5shiv
+Please make sure to update tests as appropriate.
 
-Google Fonts
-https://www.google.com/fonts/
-
-Icomoon
-https://icomoon.io/app/
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-Owl Carousel
-https://owlcarousel2.github.io/OwlCarousel2/
-
-FlexSlider
-http://flexslider.woothemes.com
-
-Demo Images
-https://unsplash.com
-https://pexels.com
-
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
-
-Appear
-https://github.com/morr/jquery.appear/
+## Project status
+This project is not under development anymore. 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
