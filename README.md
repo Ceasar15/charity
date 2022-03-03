@@ -17,7 +17,7 @@ You can access the live application here.
 
 
 ## Visuals
-![Home Page ](https://user-images.githubusercontent.com/42820626/156567594-5d195cad-7bd3-4b09-bc1d-89ce132e57d9.png)
+![Home Page](https://user-images.githubusercontent.com/42820626/156567594-5d195cad-7bd3-4b09-bc1d-89ce132e57d9.png)
 ![AboutUs Page](https://user-images.githubusercontent.com/42820626/156567625-13dbde9e-a5d5-493a-9e7a-1cb4202c8015.png)
 ![ContactUs Page](https://user-images.githubusercontent.com/42820626/156567638-7b2e102d-8597-4feb-bd36-33bd172151ef.png)
 
